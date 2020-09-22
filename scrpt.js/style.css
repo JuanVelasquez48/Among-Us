@@ -1,0 +1,9 @@
+body{
+       background-color: rgb(63, 211, 63);
+
+}
+.Titulo{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(223, 23, 23);
+}
